@@ -40,40 +40,39 @@ A static, non-functional WhatsApp clone built using **HTML**, **CSS**, and **Jav
 
 ## 🧩 **Project Structure**
 whatsapp-clone/
-├── index.html          # Main HTML file
-├── styles.css          # CSS for styling
-├── script.js           # JavaScript for interactivity
-├── README.md           # Project documentation
-└── assets/             # Folder for images/icons (if any)
-
+- ├── index.html          # Main HTML file
+- ├── styles.css          # CSS for styling
+- ├── script.js           # JavaScript for interactivity
+- ├── README.md           # Project documentation
+- └── assets/             # Folder for images/icons (if any)
 ---
 
 ## 🔧 **Customization**
-Change Names: Update the names in the index.html file.
-Change Colors: Modify the background colors in the .initial class or inline styles.
-Add More Features: Extend the functionality by adding more JavaScript logic.
+- Change Names: Update the names in the index.html file.
+- Change Colors: Modify the background colors in the .initial class or inline styles.
+- Add More Features: Extend the functionality by adding more JavaScript logic.
 
 ---
 
 ## 🌟 **Contributing**
-Contributions are welcome! If you'd like to contribute:
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeatureName).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeatureName).
-Open a pull request.
+- Contributions are welcome! If you'd like to contribute:
+- Fork the repository.
+- Create a new branch (git checkout -b feature/YourFeatureName).
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature/YourFeatureName).
+- Open a pull request.
 
 ---
 
 ## 📄 **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE(./LICENSE.png) file for details.
 
 ---
 
 ## 🙏 **Acknowledgments**
-Inspired by WhatsApp.
-Icons provided by Font Awesome.
-Background pattern from Hero Patterns.
+- Inspired by WhatsApp.
+- Icons provided by Font Awesome.
+- Background pattern from Hero Patterns.
 
 ---
 
