@@ -65,7 +65,7 @@ whatsapp-clone/
 ---
 
 ## 📄 **License**
-This project is licensed under the MIT License. See the LICENSE([./LICENSE.png](https://github.com/Shahid-Rafiq-RemotejobWala/WHATSAPP-CLONE-NON-FUNCTIONAL-WEB-BASED-/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Shahid-Rafiq-RemotejobWala/WHATSAPP-CLONE-NON-FUNCTIONAL-WEB-BASED-/blob/main/LICENSE) file for details.
 
 ---
 
